@@ -1,1 +1,0 @@
-console.log("ALL CSS CODE IS NOT MINE, CSS CODE IS FROM https://codepen.io/tachy0n/pen/grRYzV");
